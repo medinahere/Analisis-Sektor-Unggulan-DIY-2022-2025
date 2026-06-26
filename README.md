@@ -19,7 +19,7 @@ Power BI · DAX · Excel
 
 ## File
 - `Analisis Sektor Unggulan DIY 2022-2025.pbix` — dashboard interaktif
-- `Data  PDRB Prakerin.xlsx` — dataset mentah (17 sektor, ADHK & ADHB)
+- `Data  Prakerin.xlsx` — dataset mentah (17 sektor, ADHK & ADHB)
 
 ## Insight Utama
 Sektor Pertanian konsisten memiliki LQ di atas 1, namun pertumbuhan riilnya fluktuatif dan sering di bawah rata-rata Jawa, dengan pertumbuhan nominal yang lebih didorong oleh kenaikan harga komoditas dibanding peningkatan output riil. Sektor Transportasi juga memiliki LQ di atas 1 sepanjang tahun pengamatan, namun pertumbuhan riilnya tetap tertinggal dari Jawa, mencerminkan ketergantungan pada pariwisata musiman dibanding aktivitas logistik industri. Kedua temuan ini telah disampaikan ke Bapperida DIY sebagai bahan pertimbangan kebijakan sektoral.
